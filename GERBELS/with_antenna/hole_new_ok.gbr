@@ -1,0 +1,38 @@
+G04 =======================================* 
+G04 File Format: RS-274X * 
+G04 Date:        July 15 2014 * 
+G04 Time:        19:59:33 * 
+G04 =======================================* 
+G04 Format description *** 
+G04 Code:          ASCII * 
+G04 Unit:          Millimeter * 
+G04 Coordinates:   Absolut * 
+G04 Digits:        4.6-format * 
+G04 Zeros skipped: Leading zeros omitted * 
+G04 =======================================* 
+%FSLAX46Y46*%
+%MOMM*%
+G90*
+G71*
+%ADD11C,1.1*%
+%ADD10C,4*%
+%LPD*%
+G54D10*
+X60740600Y-10965600D03*
+%LPD*%
+G54D10*
+X60717000Y39974500D03*
+%LPD*%
+G54D11*
+X29238201Y1409100D03*
+%LPD*%
+G54D11*
+X43644801Y17509000D03*
+%LPD*%
+G54D11*
+X3788601Y4338700D03*
+%LPD*%
+G54D11*
+X29238201Y28311400D03*
+M02* 
+G04 End Of Gerber File* 
