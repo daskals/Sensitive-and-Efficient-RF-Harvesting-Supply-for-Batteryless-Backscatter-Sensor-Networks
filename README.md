@@ -25,7 +25,7 @@ power density on the operational cold start duration and duty
 cycle of the sensor.
 ---
 
-IEEE Xplore: https://ieeexplore.ieee.org/document/7433469
+IEEE Xplore: https://ieeexplore.ieee.org/document/7433469 /
 Local: http://daskalakispiros.com/files/assimonis_mtt_2014.pdf
 
 ---
